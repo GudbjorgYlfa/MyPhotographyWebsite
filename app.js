@@ -8,7 +8,9 @@ function myBurgerMenuButton() {
     }
   }
 
-  //======================================
+  /* ========================= */
+  /* Dropdown Button inside Burger menu*/
+  /* ========================= */
 
 function dropdownMenuPersonalWork() {
     var x = document.getElementById("dropdownMenuPersonalWork");
@@ -19,7 +21,7 @@ function dropdownMenuPersonalWork() {
     }
   }
 
-  /* ========================= */
+/* ========================= */
 /* Dropdown Button */
 /* ========================= */
 
